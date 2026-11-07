@@ -1,0 +1,9 @@
+Lindembert ramos cajas
+
+
+actividad:
+creacion de la rama individual y organazacion
+inicial del repositorio edl proyecto
+
+proyecto:
+sistema de historica clinica electornica.
